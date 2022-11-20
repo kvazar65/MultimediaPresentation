@@ -43,6 +43,7 @@
 }
 
 /* Number */
+/*
 
 .slide::after {
     position: absolute;
@@ -59,3 +60,4 @@
     content: counter(slide);
     text-align: center;
 }
+*/
